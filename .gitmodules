@@ -7,3 +7,4 @@
 	path = pkgnews
 	url = https://github.com/owenjonesuob/pkgnews
 	shallow = true
+	registered = true
