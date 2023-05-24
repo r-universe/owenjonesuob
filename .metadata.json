@@ -1,9 +1,0 @@
-[
-  {
-    "package": "pkgnews",
-    "oncran": true
-  },
-  {
-    "package": "suggests"
-  }
-]
