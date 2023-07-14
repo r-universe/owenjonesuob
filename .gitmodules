@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/owenjonesuob/universe
-	shallow = true
 	branch = HEAD
 [submodule "pkgnews"]
 	path = pkgnews
 	url = https://github.com/owenjonesuob/pkgnews
-	shallow = true
-	registered = true
 [submodule "suggests"]
 	path = suggests
 	url = https://github.com/owenjonesuob/suggests
-	shallow = true
-	registered = true
